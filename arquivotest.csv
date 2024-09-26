@@ -1,2 +1,4 @@
-2023-10-01,2023-10-05,1000.00,Aluguel,Pago
-2023-10-10,,500.00,Internet,Em Aberto
+data_vencimento,data_pagamento,valor,descricao,situacao
+2023-10-01,2023-10-05,1000.0,Aluguel,Pago
+2023-11-15,2023-11-16,500.5,Conta de Luz,Pago
+2023-12-20,2023-12-21,750.75,Internet,Pendente
